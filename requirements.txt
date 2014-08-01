@@ -1,1 +1,2 @@
-grip
+grip < 2.1.0
+remarkable < 1.0.0
