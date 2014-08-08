@@ -1,8 +1,30 @@
-# Refactorial: Refactoring As The Quantum Of Creativity
+
+
+
+An Open Source Refactoring Walkthrough 
+(How to harness the wild kittens of open source software)
+User to Complainer to Helper to Core: open source evolution / howto distributed teams
+
+My journey from a user of the awesome cookiecutter (by the awesome @audreyr), to a member of an awesome community.
+I've learned a lot from the modest and multi-talented [Audrey M. Roy] about leading a community, writing clean cross-platform Python code and being the B in [BFDL].
+  
+We start with a brief introduction to cookiecutter, why it's awesome and why you should use it.
+
+I digress and ramble about the unix way, onion programming, doing one thing well, keeping stupid and simple, how
+
+
+
+Follow step-by-step as I synthesize and refactor and test and document a cookiecutter feature: [Extra Context!]
+
+Endure as I posit that the open source software development model is a battle tested, resilient, improbable and
+
+- side effect: Github project history summary 
+   - osdfm: open source report card
+
+
+# Refactor
 
 ## 0. Intro
-![introduction][]
-
 Refactoring is a _natural_ process for dealing with the increase in complexity of a codebase over time.
 We all know how to do it, because we all know how to learn.
 We enable others to refactor by creating tools and frameworks.
@@ -63,6 +85,15 @@ def greet_something(greeting, thing):
 print(greet_something('Hola', 'Senorita'))
 print(greet_something('Over', 'Factored?'))
 ```
+
+## Extra Context [cookiecutter]
+
+## [changes][]
+## will
+## yowsup
+
+
+
 ### 1.2 Leverage all your context
 ### 1.3 Leverage all the tools
 ### 1.4 Iterate
@@ -70,12 +101,16 @@ print(greet_something('Over', 'Factored?'))
 ---
 ## 2. Evolution
 ### 2.1 Abstraction
-### 2.2 Tool Makers Level Up Ecosystems
-### 2.3 A Brief History Of Evolution
+![12 networking laws][]
+(Entropy, time's arrow, cosmology, history)
 - Organisms evolve into brains
 - Consciousness evolves tools
 - Societies evolve communication
 - Each layer stands on the shoulders of the previous paradigm shift
+
+Tools
+### 2.2 Tool Makers Level Up Ecosystems
+### 2.3 A Brief History Of Evolution
 
 ### 2.4 Hierarchical Indexes
 ### 2.5 Summary
